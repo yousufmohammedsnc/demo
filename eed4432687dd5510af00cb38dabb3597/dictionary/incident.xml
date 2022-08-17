@@ -2,5 +2,6 @@
     <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incidencia" max_length="40" name="incident" sizeclass="0" text_index="true" type="collection">
         <element label="Demo column" max_length="40" name="x_snc_fordemo_demo" type="string"/>
         <element label="Demo column" max_length="40" name="x_snc_fordemo_dem1" type="string"/>
+        <element label="Demo column" max_length="40" name="x_snc_fordemo_dem2" type="string"/>
     </element>
 </database>
