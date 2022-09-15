@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incidencia" max_length="40" name="incident" sizeclass="0" text_index="true" type="collection">
+    <element attributes="all_tables.query_hints=true,email_client=true,hasWorkflow=true,live_feed=true,query_hints=true" audit="true" db_object_id="7ca8ccf121920110a866589604c20d16" extends="task" label="Incidente" max_length="40" name="incident" text_index="true" type="collection">
         <element label="Demo column" max_length="41" name="x_snc_fordemo_demo" type="string"/>
-        <element label="Demo column" max_length="40" name="x_snc_fordemo_demo" type="string"/>
-        <element label="Demo column" max_length="40" name="x_snc_fordemo_demo" type="string"/>
+        <element label="Demo column" max_length="41" name="x_snc_fordemo_demo" type="string"/>
+        <element label="Demo column" max_length="41" name="x_snc_fordemo_demo" type="string"/>
     </element>
 </database>
